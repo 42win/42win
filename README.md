@@ -1,4 +1,4 @@
-![image](https://dumbways.id/blog/apa-itu-frontend-backend-dan-fullstack-developerg)
+![image]([https://dumbways.id/blog/apa-itu-frontend-backend-dan-fullstack-developerg](https://ewr1.vultrobjects.com/lmsbzzbx/blog/mgzebg1.jpg))
 <br>
 <br>
 ## Hi there 👋 
