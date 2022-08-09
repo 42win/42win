@@ -4,7 +4,7 @@
 ## Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=42win)
 <br>
-My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
+My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City, South Sulawesi Indonesia, I focus on backend and application development. My hobby in IT is likes about new things about coding.
 <br>
 <br>
 :pencil: I like blogging as well. You can read [my blog](https://www.arahdev.com/).
