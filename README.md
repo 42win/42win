@@ -13,10 +13,10 @@ My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City
 :construction_worker: My resume is [online](https://www.linkedin.com/in/aswin-asrianto-824144116/)
 <br><br>
 
-🔭 I am Currently working as Full Stack Developer
-🌱 I’m currently Learning Machine learning😎.
+- 🔭 I am Currently working as Full Stack Developer
+- 🌱 I’m currently Learning Machine learning😎.
 
-🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+- 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
 ### Technologies & Tools :wrench:
 
