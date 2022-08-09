@@ -12,6 +12,12 @@ My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City
 <br>
 :construction_worker: My resume is [online](https://www.linkedin.com/in/aswin-asrianto-824144116/)
 <br><br>
+
+🔭 I am Currently working as Full Stack Developer
+🌱 I’m currently Learning Machine learning😎.
+
+🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+
 ### Technologies & Tools :wrench:
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,6 +38,6 @@ My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City
 ![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
 ### My Github Stats :chart_with_upwards_trend:
-![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=42win&count_private=true&show_icons=true&theme=radical)
+![Azwin's github stats](https://github-readme-stats.vercel.app/api?username=42win&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42win&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
