@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/42win/42win/master/assets/img/anang-min.jpg)
+![image](https://dumbways.id/blog/apa-itu-frontend-backend-dan-fullstack-developerg)
 <br>
 <br>
 ## Hi there 👋 
