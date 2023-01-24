@@ -11,7 +11,7 @@ My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City
 - i also can make Telegram Bot and Whastapp Bot. 
 <br>
 <br>
-:pencil: I like blogging as well. You can read [my blog](https://www.arahdev.com/).
+:pencil: I like blogging as well. You can read [my blog](https://www.arahdev.com/)
 <br>
 <br>
 :construction_worker: My resume is [online](https://www.linkedin.com/in/aswin-asrianto-824144116/)
