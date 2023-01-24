@@ -4,7 +4,11 @@
 ## Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=42win)
 <br>
-My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City, South Sulawesi Indonesia, I focus on backend and application development. My hobby in IT is likes about new things about coding.
+My name is Aswin Asrianto. I am a Fullstack Developer and  live in Makassar City, South Sulawesi Indonesia, 
+- I can use cloud computing tech such as firebase and aws service, and can config Virtual Private Server (VPS). 
+- I can use programing languange such as PHP, Javascript, SQL, React Native, React.js, Python. and also using framework CI (Codeigniter), Node.js. by those i can make backend sistem, handling database, make android app, and model machine learning.
+- i can use data engineer tools like pentaho PDI and make ETL process 
+- i also can make Telegram Bot and Whastapp Bot. 
 <br>
 <br>
 :pencil: I like blogging as well. You can read [my blog](https://www.arahdev.com/).
